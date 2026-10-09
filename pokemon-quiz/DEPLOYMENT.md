@@ -30,7 +30,7 @@ vercel
 
 ### Admin Dashboard
 - URL: `https://your-domain.vercel.app/admin`
-- Default admin key: `pokemon-admin-2024`
+- Admin key: the value of `ADMIN_KEY` (required; the server refuses to start without it)
 - Features:
   - Real-time participant statistics
   - Type-specific accuracy analysis

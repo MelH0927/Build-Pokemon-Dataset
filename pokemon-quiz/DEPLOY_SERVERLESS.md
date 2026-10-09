@@ -58,7 +58,7 @@ curl https://your-app.vercel.app/api/health
 | Variable | Description | Example |
 |----------|-------------|---------|
 | `MONGODB_URI` | MongoDB connection string | `mongodb+srv://user:pass@cluster.mongodb.net/pokemon-quiz` |
-| `ADMIN_KEY` | Admin dashboard access key | `pokemon-admin-secure-2025` |
+| `ADMIN_KEY` | Admin dashboard access key | `a-long-random-string` |
 
 ## 📝 Alternative: Manual Deployment
 

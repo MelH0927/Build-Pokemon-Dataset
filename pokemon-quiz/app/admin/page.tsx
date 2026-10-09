@@ -256,10 +256,9 @@ export default function AdminDashboard() {
           </div>
           
           <div className="mt-6 text-sm text-gray-600 space-y-2">
-            <p className="font-medium">Default admin key (fallback): <code>pokemon-admin-2024</code></p>
-            <p>If you configured a custom key such as <code>pokemon-admin-secure-2025</code>, ensure it is present in the <code>ADMIN_KEY</code> environment variable.</p>
+            <p>Enter one of the keys configured in the server&apos;s <code>ADMIN_KEY</code> environment variable.</p>
             <p>You can supply multiple keys by separating them with commas, e.g.:<br/>
-              <code>ADMIN_KEY=pokemon-admin-secure-2025,pokemon-admin-2024</code>
+              <code>ADMIN_KEY=first-key,second-key</code>
             </p>
             <p>Whitespace is trimmed; copy/paste issues (trailing spaces or newlines) will cause failure.</p>
           </div>

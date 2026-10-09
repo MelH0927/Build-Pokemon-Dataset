@@ -102,7 +102,7 @@ Admin dashboard includes cleanup tools (old data, stale, incomplete, or full wip
 ### Multiple Admin Keys
 You can allow legacy and new keys simultaneously:
 ```
-ADMIN_KEY=pokemon-admin-secure-2025,pokemon-admin-2024,another-key
+ADMIN_KEY=new-key,legacy-key,another-key
 ```
 All keys are comma-separated, trimmed, and any one grants access.
 

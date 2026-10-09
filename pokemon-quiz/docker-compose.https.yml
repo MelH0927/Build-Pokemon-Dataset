@@ -10,7 +10,7 @@ services:
     restart: unless-stopped
     environment:
       MONGODB_URI: mongodb://mongo:27017/pokemon-quiz
-      ADMIN_KEY: ${ADMIN_KEY:-pokemon-admin-2025}
+      ADMIN_KEY: ${ADMIN_KEY:?ADMIN_KEY must be set (export it or put it in .env next to this file)}
       NODE_ENV: production
     expose:
       - "3000"
