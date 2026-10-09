@@ -1,0 +1,22 @@
+version: '3.9'
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+  quiz-app:
+    build: .
+    depends_on:
+      - mongo
+    environment:
+      MONGODB_URI: mongodb://mongo:27017/pokemon-quiz
+      ADMIN_KEY: ${ADMIN_KEY:-pokemon-admin-2024}
+      NODE_ENV: production
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+volumes:
+  mongo-data:

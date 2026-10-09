@@ -1,0 +1,2738 @@
+[
+  {
+    "image": "/quiz_images_all/drilbur-528.png",
+    "primary_type": "ground",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Drilbur",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/scorbunny-812.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Scorbunny",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/stunfisk-617.png",
+    "primary_type": "ground",
+    "secondary_type": "electric",
+    "art_style": "standard",
+    "name": "Stunfisk",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/slowbro-079.png",
+    "primary_type": "water",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Slowbro",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/sealeo-363.png",
+    "primary_type": "ice",
+    "secondary_type": "water",
+    "art_style": "standard",
+    "name": "Sealeo",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/jolteon-134.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Jolteon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/swoobat-527.png",
+    "primary_type": "psychic",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Swoobat",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mr-mime-121.png",
+    "primary_type": "psychic",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Mr. Mime",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/corviknight-822.png",
+    "primary_type": "flying",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Corviknight",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/latios-380.png",
+    "primary_type": "dragon",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Latios",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/jirachi-384.png",
+    "primary_type": "steel",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Jirachi",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/toucannon-732.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Toucannon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/groudon-382.png",
+    "primary_type": "ground",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Groudon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/heatmor-630.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Heatmor",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/vikavolt-737.png",
+    "primary_type": "bug",
+    "secondary_type": "electric",
+    "art_style": "standard",
+    "name": "Vikavolt",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/beheeyem-605.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Beheeyem",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/poipole-802.png",
+    "primary_type": "poison",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Poipole",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/feebas-348.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Feebas",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/zweilous-633.png",
+    "primary_type": "dark",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Zweilous",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/cyndaquil-154.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Cyndaquil",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/boldore-524.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Boldore",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/cubchoo-612.png",
+    "primary_type": "ice",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Cubchoo",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/buneary-426.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Buneary",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/treecko-251.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Treecko",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/regidrago-894.png",
+    "primary_type": "dragon",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Regidrago",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/patrat-503.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Patrat",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kommo-o-783.png",
+    "primary_type": "dragon",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Kommo-o",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/poliwhirl-060.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Poliwhirl",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/xerneas-715.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Xerneas",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/nuzleaf-273.png",
+    "primary_type": "grass",
+    "secondary_type": "dark",
+    "art_style": "standard",
+    "name": "Nuzleaf",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/skwovet-818.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Skwovet",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/quaxwell-912.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Quaxwell",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/luxray-404.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Luxray",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dragonite-148.png",
+    "primary_type": "dragon",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Dragonite",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/garganacl-933.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Garganacl",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/galvantula-595.png",
+    "primary_type": "bug",
+    "secondary_type": "electric",
+    "art_style": "standard",
+    "name": "Galvantula",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tentacruel-072.png",
+    "primary_type": "water",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Tentacruel",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/munkidori-1013.png",
+    "primary_type": "poison",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Munkidori",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/cradily-345.png",
+    "primary_type": "rock",
+    "secondary_type": "grass",
+    "art_style": "standard",
+    "name": "Cradily",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kadabra-063.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Kadabra",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/primarina-729.png",
+    "primary_type": "water",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Primarina",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/excadrill-529.png",
+    "primary_type": "ground",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Excadrill",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/orthworm-967.png",
+    "primary_type": "steel",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Orthworm",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mightyena-261.png",
+    "primary_type": "dark",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Mightyena",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gastrodon-422.png",
+    "primary_type": "water",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Gastrodon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/grovyle-252.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Grovyle",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/naganadel-803.png",
+    "primary_type": "poison",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Naganadel",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/darkrai-490.png",
+    "primary_type": "dark",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Darkrai",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dachsbun-926.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Dachsbun",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/comfey-763.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Comfey",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/chi-yu-1003.png",
+    "primary_type": "dark",
+    "secondary_type": "fire",
+    "art_style": "standard",
+    "name": "Chi-Yu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wo-chien-1000.png",
+    "primary_type": "dark",
+    "secondary_type": "grass",
+    "art_style": "standard",
+    "name": "Wo-Chien",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/starly-395.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Starly",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ditto-131.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Ditto",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/skiddo-671.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Skiddo",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/capsakid-950.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Capsakid",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/venipede-542.png",
+    "primary_type": "bug",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Venipede",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/golisopod-767.png",
+    "primary_type": "bug",
+    "secondary_type": "water",
+    "art_style": "standard",
+    "name": "Golisopod",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/hatenna-855.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Hatenna",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/poliwrath-061.png",
+    "primary_type": "water",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Poliwrath",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tapu-koko-784.png",
+    "primary_type": "electric",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Tapu Koko",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/jumpluff-188.png",
+    "primary_type": "grass",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Jumpluff",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/frogadier-656.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Frogadier",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/simipour-515.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Simipour",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/greedent-819.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Greedent",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/obstagoon-861.png",
+    "primary_type": "dark",
+    "secondary_type": "normal",
+    "art_style": "standard",
+    "name": "Obstagoon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/graveler-074.png",
+    "primary_type": "rock",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Graveler",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/volcarona-636.png",
+    "primary_type": "bug",
+    "secondary_type": "fire",
+    "art_style": "standard",
+    "name": "Volcarona",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dhelmise-780.png",
+    "primary_type": "ghost",
+    "secondary_type": "grass",
+    "art_style": "standard",
+    "name": "Dhelmise",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/snorlax-142.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Snorlax",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/darmanitan-554.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Darmanitan",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/exeggcute-101.png",
+    "primary_type": "grass",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Exeggcute",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/slither-wing-987.png",
+    "primary_type": "bug",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Slither Wing",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/torchic-254.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Torchic",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/persian-052.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Persian",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lunatone-336.png",
+    "primary_type": "rock",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Lunatone",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/skeledirge-910.png",
+    "primary_type": "fire",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Skeledirge",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lombre-270.png",
+    "primary_type": "water",
+    "secondary_type": "grass",
+    "art_style": "standard",
+    "name": "Lombre",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lotad-269.png",
+    "primary_type": "water",
+    "secondary_type": "grass",
+    "art_style": "standard",
+    "name": "Lotad",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tapu-fini-787.png",
+    "primary_type": "water",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Tapu Fini",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/barraskewda-846.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Barraskewda",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/grumpig-325.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Grumpig",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ponyta-076.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Ponyta",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/baltoy-342.png",
+    "primary_type": "ground",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Baltoy",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/smeargle-234.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Smeargle",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/oddish-042.png",
+    "primary_type": "grass",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Oddish",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mienshao-619.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Mienshao",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tinkatink-956.png",
+    "primary_type": "fairy",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Tinkatink",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/chimecho-357.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Chimecho",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/venonat-047.png",
+    "primary_type": "bug",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Venonat",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/zekrom-643.png",
+    "primary_type": "dragon",
+    "secondary_type": "electric",
+    "art_style": "standard",
+    "name": "Zekrom",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tauros-127.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Tauros",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gastly-091.png",
+    "primary_type": "ghost",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Gastly",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/magneton-081.png",
+    "primary_type": "electric",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Magneton",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/snivy-494.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Snivy",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/drifloon-424.png",
+    "primary_type": "ghost",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Drifloon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/hariyama-296.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Hariyama",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/archeops-566.png",
+    "primary_type": "rock",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Archeops",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/weezing-109.png",
+    "primary_type": "poison",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Weezing",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tangela-113.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Tangela",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/pyroar-667.png",
+    "primary_type": "fire",
+    "secondary_type": "normal",
+    "art_style": "standard",
+    "name": "Pyroar",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ducklett-579.png",
+    "primary_type": "water",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Ducklett",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/metapod-010.png",
+    "primary_type": "bug",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Metapod",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/clefairy-034.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Clefairy",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/shelgon-371.png",
+    "primary_type": "dragon",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Shelgon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/grookey-809.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Grookey",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/nidorina-029.png",
+    "primary_type": "poison",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Nidorina",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/sandshrew-026.png",
+    "primary_type": "ground",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Sandshrew",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/brute-bonnet-985.png",
+    "primary_type": "grass",
+    "secondary_type": "dark",
+    "art_style": "standard",
+    "name": "Brute Bonnet",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/serperior-496.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Serperior",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/empoleon-394.png",
+    "primary_type": "water",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Empoleon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/meloetta-647.png",
+    "primary_type": "normal",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Meloetta",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lapras-130.png",
+    "primary_type": "water",
+    "secondary_type": "ice",
+    "art_style": "standard",
+    "name": "Lapras",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/palossand-769.png",
+    "primary_type": "ghost",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Palossand",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/coalossal-838.png",
+    "primary_type": "rock",
+    "secondary_type": "fire",
+    "art_style": "standard",
+    "name": "Coalossal",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/flareon-135.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Flareon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/trubbish-567.png",
+    "primary_type": "poison",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Trubbish",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/chinchou-169.png",
+    "primary_type": "water",
+    "secondary_type": "electric",
+    "art_style": "standard",
+    "name": "Chinchou",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mimikyu-777.png",
+    "primary_type": "ghost",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Mimikyu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/volcanion-720.png",
+    "primary_type": "fire",
+    "secondary_type": "water",
+    "art_style": "standard",
+    "name": "Volcanion",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/beedrill-014.png",
+    "primary_type": "bug",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Beedrill",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gorebyss-367.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Gorebyss",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/natu-176.png",
+    "primary_type": "psychic",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Natu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/igglybuff-173.png",
+    "primary_type": "normal",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Igglybuff",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/raichu-025.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Raichu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dartrix-722.png",
+    "primary_type": "grass",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Dartrix",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/togekiss-467.png",
+    "primary_type": "fairy",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Togekiss",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/magearna-800.png",
+    "primary_type": "steel",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Magearna",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/aron-303.png",
+    "primary_type": "steel",
+    "secondary_type": "rock",
+    "art_style": "standard",
+    "name": "Aron",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/malamar-686.png",
+    "primary_type": "dark",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Malamar",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/rhyperior-463.png",
+    "primary_type": "ground",
+    "secondary_type": "rock",
+    "art_style": "standard",
+    "name": "Rhyperior",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/snom-871.png",
+    "primary_type": "ice",
+    "secondary_type": "bug",
+    "art_style": "standard",
+    "name": "Snom",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/swinub-219.png",
+    "primary_type": "ice",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Swinub",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/alcremie-868.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Alcremie",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wooloo-830.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Wooloo",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/snubbull-208.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Snubbull",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ralts-279.png",
+    "primary_type": "psychic",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Ralts",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/vibrava-328.png",
+    "primary_type": "ground",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Vibrava",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/quaxly-911.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Quaxly",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/flittle-954.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Flittle",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/deoxys-385.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Deoxys",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/linoone-263.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Linoone",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dragalge-690.png",
+    "primary_type": "poison",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Dragalge",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/reuniclus-578.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Reuniclus",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tarountula-916.png",
+    "primary_type": "bug",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Tarountula",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/basculegion-901.png",
+    "primary_type": "water",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Basculegion",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wynaut-359.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Wynaut",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/glalie-361.png",
+    "primary_type": "ice",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Glalie",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/pawmot-922.png",
+    "primary_type": "electric",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Pawmot",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/basculin-549.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Basculin",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/camerupt-322.png",
+    "primary_type": "fire",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Camerupt",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/froakie-655.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Froakie",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/maushold-924.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Maushold",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/flutter-mane-986.png",
+    "primary_type": "ghost",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Flutter Mane",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/prinplup-393.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Prinplup",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gulpin-315.png",
+    "primary_type": "poison",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Gulpin",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/psyduck-053.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Psyduck",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/darumaka-553.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Darumaka",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/throh-537.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Throh",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/bunnelby-658.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Bunnelby",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/cutiefly-741.png",
+    "primary_type": "bug",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Cutiefly",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/swanna-580.png",
+    "primary_type": "water",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Swanna",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/omanyte-137.png",
+    "primary_type": "rock",
+    "secondary_type": "water",
+    "art_style": "standard",
+    "name": "Omanyte",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/drowzee-095.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Drowzee",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/florges-670.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Florges",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/bastiodon-410.png",
+    "primary_type": "rock",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Bastiodon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lunala-791.png",
+    "primary_type": "psychic",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Lunala",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wugtrio-960.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Wugtrio",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kyurem-645.png",
+    "primary_type": "dragon",
+    "secondary_type": "ice",
+    "art_style": "standard",
+    "name": "Kyurem",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/iron-moth-993.png",
+    "primary_type": "fire",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Iron Moth",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/dottler-824.png",
+    "primary_type": "bug",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Dottler",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ambipom-423.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Ambipom",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gurdurr-532.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Gurdurr",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wartortle-007.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Wartortle",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/chatot-440.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Chatot",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/pikachu-024.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Pikachu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/koffing-108.png",
+    "primary_type": "poison",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Koffing",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kartana-797.png",
+    "primary_type": "grass",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Kartana",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/sprigatito-905.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Sprigatito",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/corsola-221.png",
+    "primary_type": "water",
+    "secondary_type": "rock",
+    "art_style": "standard",
+    "name": "Corsola",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/flygon-329.png",
+    "primary_type": "ground",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Flygon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/aggron-305.png",
+    "primary_type": "steel",
+    "secondary_type": "rock",
+    "art_style": "standard",
+    "name": "Aggron",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/iron-crown-1018.png",
+    "primary_type": "steel",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Iron Crown",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/squawkabilly-930.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Squawkabilly",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wiglett-959.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Wiglett",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/alomomola-593.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Alomomola",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/poliwag-059.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Poliwag",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gossifleur-828.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Gossifleur",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/poltchageist-1011.png",
+    "primary_type": "grass",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Poltchageist",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tepig-497.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Tepig",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/maractus-555.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Maractus",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/slowking-198.png",
+    "primary_type": "water",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Slowking",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/blacephalon-805.png",
+    "primary_type": "fire",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Blacephalon",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/magnezone-461.png",
+    "primary_type": "electric",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Magnezone",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/cacturne-331.png",
+    "primary_type": "grass",
+    "secondary_type": "dark",
+    "art_style": "standard",
+    "name": "Cacturne",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/yamper-834.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Yamper",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/sceptile-253.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Sceptile",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/victini-493.png",
+    "primary_type": "psychic",
+    "secondary_type": "fire",
+    "art_style": "standard",
+    "name": "Victini",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/loudred-293.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Loudred",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/grapploct-852.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Grapploct",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/shellos-421.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Shellos",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/sinistcha-1021.png",
+    "primary_type": "grass",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Sinistcha",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gligar-206.png",
+    "primary_type": "ground",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Gligar",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mime-jr-438.png",
+    "primary_type": "psychic",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Mime Jr.",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/escavalier-588.png",
+    "primary_type": "bug",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Escavalier",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/bewear-759.png",
+    "primary_type": "normal",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Bewear",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/rookidee-820.png",
+    "primary_type": "flying",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Rookidee",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/jangmo-o-781.png",
+    "primary_type": "dragon",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Jangmo-o",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lycanroc-744.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Lycanroc",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/flaaffy-179.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Flaaffy",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/foongus-589.png",
+    "primary_type": "grass",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Foongus",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/rufflet-626.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Rufflet",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/sneasel-214.png",
+    "primary_type": "dark",
+    "secondary_type": "ice",
+    "art_style": "standard",
+    "name": "Sneasel",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/delcatty-300.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Delcatty",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kyogre-381.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Kyogre",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/bounsweet-760.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Bounsweet",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gardevoir-281.png",
+    "primary_type": "psychic",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Gardevoir",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/swellow-276.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Swellow",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/illumise-313.png",
+    "primary_type": "bug",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Illumise",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/karrablast-587.png",
+    "primary_type": "bug",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Karrablast",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ting-lu-1002.png",
+    "primary_type": "dark",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Ting-Lu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/slakoth-286.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Slakoth",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/togetic-175.png",
+    "primary_type": "fairy",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Togetic",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wattrel-939.png",
+    "primary_type": "electric",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Wattrel",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/suicune-244.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Suicune",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dracozolt-879.png",
+    "primary_type": "electric",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Dracozolt",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/cloyster-090.png",
+    "primary_type": "water",
+    "secondary_type": "ice",
+    "art_style": "standard",
+    "name": "Cloyster",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/salamence-372.png",
+    "primary_type": "dragon",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Salamence",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/combee-414.png",
+    "primary_type": "bug",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Combee",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tapu-lele-785.png",
+    "primary_type": "psychic",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Tapu Lele",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/klinklang-600.png",
+    "primary_type": "steel",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Klinklang",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/morelull-754.png",
+    "primary_type": "grass",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Morelull",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/piloswine-220.png",
+    "primary_type": "ice",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Piloswine",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/espathra-955.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Espathra",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/servine-495.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Servine",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/iron-boulder-1024.png",
+    "primary_type": "rock",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Iron Boulder",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/kirlia-280.png",
+    "primary_type": "psychic",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Kirlia",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/scyther-122.png",
+    "primary_type": "bug",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Scyther",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/piplup-392.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Piplup",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/scolipede-544.png",
+    "primary_type": "bug",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Scolipede",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/klang-599.png",
+    "primary_type": "steel",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Klang",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/oinkologne-915.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Oinkologne",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/rampardos-408.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Rampardos",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/terapagos-1019.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Terapagos",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/exeggutor-102.png",
+    "primary_type": "grass",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Exeggutor",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/raticate-019.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Raticate",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/urshifu-891.png",
+    "primary_type": "fighting",
+    "secondary_type": "dark",
+    "art_style": "standard",
+    "name": "Urshifu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/chesnaught-651.png",
+    "primary_type": "grass",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Chesnaught",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/delphox-654.png",
+    "primary_type": "fire",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Delphox",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dwebble-556.png",
+    "primary_type": "bug",
+    "secondary_type": "rock",
+    "art_style": "standard",
+    "name": "Dwebble",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/hippopotas-448.png",
+    "primary_type": "ground",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Hippopotas",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/goodra-705.png",
+    "primary_type": "dragon",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Goodra",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lokix-919.png",
+    "primary_type": "bug",
+    "secondary_type": "dark",
+    "art_style": "standard",
+    "name": "Lokix",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/nosepass-298.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Nosepass",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mareanie-746.png",
+    "primary_type": "poison",
+    "secondary_type": "water",
+    "art_style": "standard",
+    "name": "Mareanie",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/masquerain-283.png",
+    "primary_type": "bug",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Masquerain",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gible-442.png",
+    "primary_type": "dragon",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Gible",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/goomy-703.png",
+    "primary_type": "dragon",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Goomy",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mantyke-457.png",
+    "primary_type": "water",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Mantyke",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/great-tusk-983.png",
+    "primary_type": "ground",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Great Tusk",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/entei-243.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Entei",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/musharna-517.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Musharna",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/mankey-055.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Mankey",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/applin-839.png",
+    "primary_type": "grass",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Applin",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/vulpix-036.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Vulpix",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/leafeon-469.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Leafeon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/shroomish-284.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Shroomish",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kubfu-890.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Kubfu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/stantler-233.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Stantler",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/butterfree-011.png",
+    "primary_type": "bug",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Butterfree",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/sunkern-190.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Sunkern",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/phantump-707.png",
+    "primary_type": "ghost",
+    "secondary_type": "grass",
+    "art_style": "standard",
+    "name": "Phantump",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/klawf-949.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Klawf",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/bronzor-435.png",
+    "primary_type": "steel",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Bronzor",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/pheromosa-794.png",
+    "primary_type": "bug",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Pheromosa",
+    "paradox_or_ultrabeast": "yes"
+  },
+  {
+    "image": "/quiz_images_all/bagon-370.png",
+    "primary_type": "dragon",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Bagon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/zacian-887.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Zacian",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lumineon-456.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Lumineon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/vigoroth-287.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Vigoroth",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gigalith-525.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Gigalith",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/stonjourner-873.png",
+    "primary_type": "rock",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Stonjourner",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tinkaton-958.png",
+    "primary_type": "fairy",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Tinkaton",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/lairon-304.png",
+    "primary_type": "steel",
+    "secondary_type": "rock",
+    "art_style": "standard",
+    "name": "Lairon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/roselia-314.png",
+    "primary_type": "grass",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Roselia",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/trumbeak-731.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Trumbeak",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/seaking-118.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Seaking",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/spiritomb-441.png",
+    "primary_type": "ghost",
+    "secondary_type": "dark",
+    "art_style": "standard",
+    "name": "Spiritomb",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/diggersby-659.png",
+    "primary_type": "normal",
+    "secondary_type": "ground",
+    "art_style": "standard",
+    "name": "Diggersby",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/baxcalibur-997.png",
+    "primary_type": "dragon",
+    "secondary_type": "ice",
+    "art_style": "standard",
+    "name": "Baxcalibur",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/helioptile-693.png",
+    "primary_type": "electric",
+    "secondary_type": "normal",
+    "art_style": "standard",
+    "name": "Helioptile",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gumshoos-734.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Gumshoos",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/glameow-430.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Glameow",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/arrokuda-845.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Arrokuda",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/seel-085.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Seel",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/simisear-513.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Simisear",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tentacool-071.png",
+    "primary_type": "water",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Tentacool",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/granbull-209.png",
+    "primary_type": "fairy",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Granbull",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ferrothorn-597.png",
+    "primary_type": "grass",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Ferrothorn",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/ribombee-742.png",
+    "primary_type": "bug",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Ribombee",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/glimmora-969.png",
+    "primary_type": "rock",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Glimmora",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/farigiraf-980.png",
+    "primary_type": "normal",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Farigiraf",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/rabsca-953.png",
+    "primary_type": "bug",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Rabsca",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/charcadet-934.png",
+    "primary_type": "fire",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Charcadet",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/heliolisk-694.png",
+    "primary_type": "electric",
+    "secondary_type": "normal",
+    "art_style": "standard",
+    "name": "Heliolisk",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/hoppip-186.png",
+    "primary_type": "grass",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Hoppip",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/oricorio-740.png",
+    "primary_type": "fire",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Oricorio",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/beldum-373.png",
+    "primary_type": "steel",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Beldum",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/shuckle-212.png",
+    "primary_type": "bug",
+    "secondary_type": "rock",
+    "art_style": "standard",
+    "name": "Shuckle",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/spearow-020.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Spearow",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/delibird-224.png",
+    "primary_type": "ice",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Delibird",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/bidoof-398.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Bidoof",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/hakamo-o-782.png",
+    "primary_type": "dragon",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Hakamo-o",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/voltorb-099.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Voltorb",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/iron-leaves-1009.png",
+    "primary_type": "grass",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Iron Leaves",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/stufful-758.png",
+    "primary_type": "normal",
+    "secondary_type": "fighting",
+    "art_style": "standard",
+    "name": "Stufful",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/chingling-432.png",
+    "primary_type": "psychic",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Chingling",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/revavroom-965.png",
+    "primary_type": "steel",
+    "secondary_type": "poison",
+    "art_style": "standard",
+    "name": "Revavroom",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/yungoos-733.png",
+    "primary_type": "normal",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Yungoos",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/shedinja-291.png",
+    "primary_type": "bug",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Shedinja",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kricketune-401.png",
+    "primary_type": "bug",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Kricketune",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/dragapult-886.png",
+    "primary_type": "dragon",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Dragapult",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/chewtle-832.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Chewtle",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/drifblim-425.png",
+    "primary_type": "ghost",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Drifblim",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/kingdra-229.png",
+    "primary_type": "water",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Kingdra",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/blitzle-521.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Blitzle",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tinkatuff-957.png",
+    "primary_type": "fairy",
+    "secondary_type": "steel",
+    "art_style": "standard",
+    "name": "Tinkatuff",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/electrike-308.png",
+    "primary_type": "electric",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Electrike",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/sandslash-027.png",
+    "primary_type": "ground",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Sandslash",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/meditite-306.png",
+    "primary_type": "fighting",
+    "secondary_type": "psychic",
+    "art_style": "standard",
+    "name": "Meditite",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/noctowl-163.png",
+    "primary_type": "normal",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Noctowl",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/koraidon-1006.png",
+    "primary_type": "fighting",
+    "secondary_type": "dragon",
+    "art_style": "standard",
+    "name": "Koraidon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/tapu-bulu-786.png",
+    "primary_type": "grass",
+    "secondary_type": "fairy",
+    "art_style": "standard",
+    "name": "Tapu Bulu",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/shellder-089.png",
+    "primary_type": "water",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Shellder",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/umbreon-196.png",
+    "primary_type": "dark",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Umbreon",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/decidueye-723.png",
+    "primary_type": "grass",
+    "secondary_type": "ghost",
+    "art_style": "standard",
+    "name": "Decidueye",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/gliscor-471.png",
+    "primary_type": "ground",
+    "secondary_type": "flying",
+    "art_style": "standard",
+    "name": "Gliscor",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/arboliva-929.png",
+    "primary_type": "grass",
+    "secondary_type": "normal",
+    "art_style": "standard",
+    "name": "Arboliva",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/wormadam-412.png",
+    "primary_type": "bug",
+    "secondary_type": "grass",
+    "art_style": "standard",
+    "name": "Wormadam",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/rellor-952.png",
+    "primary_type": "bug",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Rellor",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/makuhita-295.png",
+    "primary_type": "fighting",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Makuhita",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/bibarel-399.png",
+    "primary_type": "normal",
+    "secondary_type": "water",
+    "art_style": "standard",
+    "name": "Bibarel",
+    "paradox_or_ultrabeast": "no"
+  },
+  {
+    "image": "/quiz_images_all/rillaboom-811.png",
+    "primary_type": "grass",
+    "secondary_type": null,
+    "art_style": "standard",
+    "name": "Rillaboom",
+    "paradox_or_ultrabeast": "no"
+  }
+]

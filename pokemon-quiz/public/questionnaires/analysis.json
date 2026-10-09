@@ -1,0 +1,35 @@
+[
+  {
+    "questionnaire": 1,
+    "totalEntries": 342,
+    "famousCount": 12,
+    "famousPercentage": "3.5",
+    "typeCount": 18,
+    "averagePerType": "19.0",
+    "generationDistribution": {
+      "Gen 9+": 342
+    }
+  },
+  {
+    "questionnaire": 2,
+    "totalEntries": 342,
+    "famousCount": 12,
+    "famousPercentage": "3.5",
+    "typeCount": 18,
+    "averagePerType": "19.0",
+    "generationDistribution": {
+      "Gen 9+": 342
+    }
+  },
+  {
+    "questionnaire": 3,
+    "totalEntries": 341,
+    "famousCount": 12,
+    "famousPercentage": "3.5",
+    "typeCount": 18,
+    "averagePerType": "18.9",
+    "generationDistribution": {
+      "Gen 9+": 341
+    }
+  }
+]

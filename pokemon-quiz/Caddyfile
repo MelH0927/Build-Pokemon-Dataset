@@ -1,0 +1,18 @@
+# Replace your.domain.com with your real domain (ensure DNS A/AAAA points here)
+your.domain.com {
+  encode zstd gzip
+  @static {
+    path /_next/*
+    path /questionnaires/*
+    path /quiz_images/*
+    path /quiz_images_all/*
+  }
+  handle @static {
+    header Cache-Control "public, max-age=31536000, immutable"
+  }
+  reverse_proxy quiz-app:3000
+  log {
+    output stdout
+    format console
+  }
+}

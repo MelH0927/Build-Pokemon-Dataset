@@ -1,0 +1,35 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "primary_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "secondary_type": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "art_style": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "number": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "paradox_or_ultrabeast": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

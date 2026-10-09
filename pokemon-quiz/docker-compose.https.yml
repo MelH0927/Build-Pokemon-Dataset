@@ -1,0 +1,34 @@
+version: '3.9'
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    volumes:
+      - mongo-data:/data/db
+  quiz-app:
+    build: .
+    restart: unless-stopped
+    environment:
+      MONGODB_URI: mongodb://mongo:27017/pokemon-quiz
+      ADMIN_KEY: ${ADMIN_KEY:-pokemon-admin-2025}
+      NODE_ENV: production
+    expose:
+      - "3000"
+    depends_on:
+      - mongo
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      - quiz-app
+volumes:
+  mongo-data:
+  caddy-data:
+  caddy-config:
